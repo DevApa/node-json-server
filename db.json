@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombres": "Carlos",
+      "apellidos": "Aparicio",
+      "materias": [
+        {
+          "nombre": "Matemáticas"
+        },
+        {
+          "nombre": "Física"
+        }
+      ],
+      "id": "bc27"
+    },
+    {
+      "nombres": "Erika",
+      "apellidos": "Perez",
+      "materias": [
+        {
+          "nombre": "Ingles"
+        },
+        {
+          "nombre": "Lenguaje"
+        },
+        {
+          "nombre": "Etica"
+        }
+      ],
+      "id": "498a"
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombres": "Carlos",
+      "apellidos": "Aparicio",
+      "nota": 8.2,
+      "id": "2625"
+    },
+    {
+      "nombres": "Andy",
+      "apellidos": "Calahan",
+      "nota": 10,
+      "id": "816f"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node JS desde cero",
+      "duracion": 8,
+      "dificultad": "Baja",
+      "id": "f580"
+    },
+    {
+      "nombre": "Node JS desde cero",
+      "duracion": 8,
+      "dificultad": "Media",
+      "id": "aa24"
+    },
+    {
+      "nombre": "Node JS desde cero",
+      "duracion": 8,
+      "dificultad": "Alta",
+      "id": "d61b"
+    }
+  ]
+}
